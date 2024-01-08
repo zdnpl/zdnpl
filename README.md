@@ -4,3 +4,6 @@
 <p align="center">
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=zdnpl&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=zdnpl&layout=compact&langs_count=10&theme=tokyonight&hide_border=true">
 </p>
+
+<h1>MY CURRENT PROJECT</h1>
+<img src="Screenshot 2024-01-08 193205.png"></img>
