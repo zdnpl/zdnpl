@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zdnpl" alt="zdnpl" /></a> </p>
 
-- 🔭 I’m currently studying on **SMA DIPONEGORO 1 JAKARTA**
+- 🔭 I’m currently studying at **SMA DIPONEGORO 1 JAKARTA**
 
 - 👯 I’m looking to collaborate on **Software, and Website Developer**
 
