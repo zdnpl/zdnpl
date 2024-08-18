@@ -41,4 +41,5 @@
 <h4>lookin for saweria? i made one</h4>
 <a href="https://zdnpl.github.io/angpao/">https://zdnpl.github.io/angpao/</a>
 <img src="iPhone-12-PRO-127.0.0.1.png"></img>
+<img src="Screenshot 2024-08-18 182421.png"></img>
 
