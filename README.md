@@ -34,6 +34,9 @@
 
 
 <h1 style="margin-bottom: 20px;">MY CURRENT PROJECT</h1>
+<h3>TERMINAL STYLE PORTFOLIO</h3>
+<a href="https://zidanaufal-me.vercel.app/">https://zidanaufal-me.vercel.app</a>
+<img src="Screenshot 2024-08-18 182421.png"></img>
 <h3>SCREEN DISPLAY ORDER MENU</h3>
 <a href="https://github.com/zdnpl/marketplace-dejava">https://github.com/zdnpl/marketplace-dejava</a>
 <img src="Screenshot 2024-01-08 193205.png"></img>
@@ -44,8 +47,4 @@
   <img src="iPhone-12-PRO-127.0.0.1.png" alt="Gambar 1" width="45%" style="display: inline-block; margin-right: 10px;">
   <img src="iPhone-12-PRO-app.midtrans.com.png" alt="Gambar 2" width="45%" style="display: inline-block;">
 </p>
-
-<img src="iPhone-12-PRO-127.0.0.1.png"></img>
-<img src="iPhone-12-PRO-app.midtrans.com.png"></img>
-<img src="Screenshot 2024-08-18 182421.png"></img>
 
