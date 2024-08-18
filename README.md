@@ -40,6 +40,11 @@
 <h3>SAWERIA</h3>
 <h4>lookin for saweria? i made one</h4>
 <a href="https://zdnpl.github.io/angpao/">https://zdnpl.github.io/angpao/</a>
+<p>
+  <img src="iPhone-12-PRO-127.0.0.1.png" alt="Gambar 1" width="45%" style="display: inline-block; margin-right: 10px;">
+  <img src="iPhone-12-PRO-app.midtrans.com.png" alt="Gambar 2" width="45%" style="display: inline-block;">
+</p>
+
 <img src="iPhone-12-PRO-127.0.0.1.png"></img>
 <img src="iPhone-12-PRO-app.midtrans.com.png"></img>
 <img src="Screenshot 2024-08-18 182421.png"></img>
